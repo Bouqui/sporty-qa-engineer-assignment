@@ -136,7 +136,3 @@ pytest tests/api
 ## Notes
 
 This project uses a simple Page Object Model in `pages/betting_page.py` to encapsulate the UI behavior, making the tests easier to read and maintain. It is designed as a practical QA assignment focused on validating a sports betting workflow under realistic product conditions.
-
-## License
-
-No explicit license file is included in this repository. This project appears to be intended for personal/assignment use unless otherwise specified.
